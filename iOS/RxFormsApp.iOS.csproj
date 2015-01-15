@@ -145,9 +145,6 @@
     <Reference Include="ReactiveUI.Events">
       <HintPath>..\packages\reactiveui-events.6.3.1\lib\Xamarin.iOS10\ReactiveUI.Events.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\packages\Newtonsoft.Json.6.0.3\lib\portable-net40+sl4+wp7+win8\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="Akavache">
       <HintPath>..\packages\akavache.core.4.1.0\lib\Xamarin.iOS10\Akavache.dll</HintPath>
     </Reference>
@@ -159,6 +156,9 @@
     </Reference>
     <Reference Include="ModernHttpClient">
       <HintPath>..\packages\modernhttpclient.2.1.5\lib\Xamarin.iOS10\ModernHttpClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
