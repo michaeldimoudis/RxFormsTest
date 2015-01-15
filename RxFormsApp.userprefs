@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="iOS/RxFormsApp.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
+    <Files>
+      <File FileName="RxFormsApp/ViewModels/AppBootstrapper.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="10" Column="10" />
+      <File FileName="RxFormsApp/RxFormsApp.cs" Line="1" Column="1" />
+      <File FileName="RxFormsApp/ViewModels/FirstViewModel.cs" Line="1" Column="1" />
+      <File FileName="RxFormsApp/ViewModels/SecondViewModel.cs" Line="1" Column="1" />
+      <File FileName="RxFormsApp/Views/FirstPage.xaml" Line="1" Column="1" />
+      <File FileName="RxFormsApp/Views/FirstPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="RxFormsApp/Views/SecondPage.xaml" Line="1" Column="1" />
+      <File FileName="RxFormsApp/Views/SecondPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Droid/AndroidApplication.cs" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
